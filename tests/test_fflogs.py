@@ -1,11 +1,11 @@
 import unittest
 from raidlogs import fflogs
+from raidlogs import config
 
 
 # TODO mock request lib to get a canned response.
 class TestFFLogs(unittest.TestCase):
     def setUp(self):
-        from raidlogs import config
         self.api = fflogs.Api(config.API_KEY)
 
     def test_fflogs_incorrect_api_key_returns_401_unauthorized(self):
