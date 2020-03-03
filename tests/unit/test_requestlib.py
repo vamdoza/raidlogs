@@ -23,6 +23,12 @@ class TestRequestLib(unittest.TestCase):
         response = requestlib.get("https://www.google.com/")
         self.assertIsNotNone(response)
 
+    def test_EncodeURLWithParamsReturnEncodedURL(self):
+        url = "www.google.com"
+        params = {'user_id': 12345678910}
+        encoded_url = requestlib.encode_url_with_params(url, params)
+        self.assertEqual(encoded_url, "www.google.com?user_id=12345678910")
+
 
 if __name__ == '__main__':
     unittest.main()
