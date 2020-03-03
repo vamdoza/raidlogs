@@ -1,1 +1,2561 @@
-{}
+{
+  "fights": [
+    {
+      "id": 1,
+      "start_time": 90829,
+      "end_time": 141968,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 9996,
+      "fightPercentage": 9996,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 2,
+      "start_time": 380835,
+      "end_time": 704063,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 1,
+      "standardComposition": true,
+      "bossPercentage": 6408,
+      "fightPercentage": 6408,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 3,
+      "start_time": 735683,
+      "end_time": 1059294,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 6257,
+      "fightPercentage": 6257,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 4,
+      "start_time": 1228688,
+      "end_time": 1552202,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 6843,
+      "fightPercentage": 6843,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 5,
+      "start_time": 1682948,
+      "end_time": 2005852,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 6991,
+      "fightPercentage": 6991,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 6,
+      "start_time": 2052155,
+      "end_time": 2132911,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 8543,
+      "fightPercentage": 8543,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 7,
+      "start_time": 2158604,
+      "end_time": 2312695,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 7310,
+      "fightPercentage": 7310,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 8,
+      "start_time": 2343007,
+      "end_time": 2746828,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 5790,
+      "fightPercentage": 5790,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 9,
+      "start_time": 3141066,
+      "end_time": 3549838,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 5584,
+      "fightPercentage": 5584,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 10,
+      "start_time": 4207501,
+      "end_time": 4659209,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 5658,
+      "fightPercentage": 5658,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 11,
+      "start_time": 4708047,
+      "end_time": 5183068,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 4457,
+      "fightPercentage": 4457,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 12,
+      "start_time": 5613024,
+      "end_time": 6079678,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 4282,
+      "fightPercentage": 4282,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 13,
+      "start_time": 6307028,
+      "end_time": 6402124,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 8211,
+      "fightPercentage": 8211,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 14,
+      "start_time": 6438344,
+      "end_time": 6978857,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 3743,
+      "fightPercentage": 3743,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 15,
+      "start_time": 7229194,
+      "end_time": 7640548,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 5312,
+      "fightPercentage": 5312,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 16,
+      "start_time": 7672985,
+      "end_time": 8286304,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 3102,
+      "fightPercentage": 3102,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 17,
+      "start_time": 8558332,
+      "end_time": 8862511,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 6224,
+      "fightPercentage": 6224,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 18,
+      "start_time": 8896567,
+      "end_time": 9193318,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 6337,
+      "fightPercentage": 6337,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 19,
+      "start_time": 9220883,
+      "end_time": 9523490,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 6199,
+      "fightPercentage": 6199,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 20,
+      "start_time": 9555772,
+      "end_time": 10145627,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 2780,
+      "fightPercentage": 2780,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 21,
+      "start_time": 10195365,
+      "end_time": 10339663,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 7417,
+      "fightPercentage": 7417,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 22,
+      "start_time": 10437246,
+      "end_time": 11155162,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": true,
+      "bossPercentage": 1131,
+      "fightPercentage": 1131,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    },
+    {
+      "id": 23,
+      "start_time": 11189674,
+      "end_time": 11219030,
+      "boss": 71,
+      "name": "The Idol Of Darkness",
+      "zoneID": 908,
+      "zoneName": "Eden's Verse: Iconoclasm (Savage)",
+      "size": 8,
+      "difficulty": 101,
+      "kill": false,
+      "partial": 0,
+      "standardComposition": false,
+      "bossPercentage": 9997,
+      "fightPercentage": 9997,
+      "lastPhaseForPercentageDisplay": 0,
+      "maps": []
+    }
+  ],
+  "lang": "en",
+  "friendlies": [
+    {
+      "name": "Ground Effect",
+      "id": 20,
+      "guid": 1000019,
+      "type": "LimitBreak",
+      "fights": [
+        {
+          "id": 20
+        }
+      ]
+    },
+    {
+      "name": "Vamdoza Radiant",
+      "id": 8,
+      "guid": 1000007,
+      "type": "Paladin",
+      "server": "Excalibur",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        }
+      ]
+    },
+    {
+      "name": "Limit Break",
+      "id": 29,
+      "guid": 1000028,
+      "type": "LimitBreak",
+      "fights": [
+        {
+          "id": 3
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 22
+        }
+      ]
+    },
+    {
+      "name": "Multiple Players",
+      "id": 15,
+      "guid": 1000014,
+      "type": "LimitBreak",
+      "fights": [
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        }
+      ]
+    },
+    {
+      "name": "Triviane Bilemant",
+      "id": 4,
+      "guid": 1000003,
+      "type": "Summoner",
+      "server": "Excalibur",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        }
+      ]
+    },
+    {
+      "name": "Serlink Dashe",
+      "id": 6,
+      "guid": 1000005,
+      "type": "Ninja",
+      "server": "Hyperion",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        }
+      ]
+    },
+    {
+      "name": "Kuro Kitsune",
+      "id": 5,
+      "guid": 1000004,
+      "type": "Dancer",
+      "server": "Hyperion",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        }
+      ]
+    },
+    {
+      "name": "Musica Champagne",
+      "id": 10,
+      "guid": 1000009,
+      "type": "Machinist",
+      "server": "Excalibur",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        }
+      ]
+    },
+    {
+      "name": "Luca Lockwalker",
+      "id": 7,
+      "guid": 1000006,
+      "type": "Gunbreaker",
+      "server": "Excalibur",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        }
+      ]
+    },
+    {
+      "name": "Chintor Swiftstrikes",
+      "id": 11,
+      "guid": 1000010,
+      "type": "Astrologian",
+      "server": "Excalibur",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        }
+      ]
+    },
+    {
+      "name": "Fii Online",
+      "id": 9,
+      "guid": 1000008,
+      "type": "WhiteMage",
+      "server": "Excalibur",
+      "fights": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 5
+        },
+        {
+          "id": 6
+        },
+        {
+          "id": 7
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 9
+        },
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        },
+        {
+          "id": 13
+        },
+        {
+          "id": 14
+        },
+        {
+          "id": 15
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        }
+      ]
+    }
+  ],
+  "enemies": [
+    {
+      "name": "Idolatry",
+      "id": 26,
+      "guid": 11573,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 2,
+          "instances": 2
+        },
+        {
+          "id": 3,
+          "instances": 1
+        },
+        {
+          "id": 4,
+          "instances": 1
+        },
+        {
+          "id": 5,
+          "instances": 1
+        },
+        {
+          "id": 8,
+          "instances": 1
+        },
+        {
+          "id": 9,
+          "instances": 1
+        },
+        {
+          "id": 10,
+          "instances": 1
+        },
+        {
+          "id": 11,
+          "instances": 1
+        },
+        {
+          "id": 12,
+          "instances": 1
+        },
+        {
+          "id": 14,
+          "instances": 1
+        },
+        {
+          "id": 15,
+          "instances": 1
+        },
+        {
+          "id": 16,
+          "instances": 1
+        },
+        {
+          "id": 17,
+          "instances": 1
+        },
+        {
+          "id": 18,
+          "instances": 1
+        },
+        {
+          "id": 19,
+          "instances": 1
+        },
+        {
+          "id": 20,
+          "instances": 1
+        },
+        {
+          "id": 22,
+          "instances": 1
+        }
+      ]
+    },
+    {
+      "name": "The Idol Of Darkness",
+      "id": 3,
+      "guid": 9020,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 1,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 2,
+          "instances": 16,
+          "groups": 8
+        },
+        {
+          "id": 3,
+          "instances": 16,
+          "groups": 8
+        },
+        {
+          "id": 4,
+          "instances": 14,
+          "groups": 8
+        },
+        {
+          "id": 5,
+          "instances": 16,
+          "groups": 8
+        },
+        {
+          "id": 6,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 7,
+          "instances": 2,
+          "groups": 7
+        },
+        {
+          "id": 8,
+          "instances": 16,
+          "groups": 11
+        },
+        {
+          "id": 9,
+          "instances": 16,
+          "groups": 11
+        },
+        {
+          "id": 10,
+          "instances": 16,
+          "groups": 13
+        },
+        {
+          "id": 11,
+          "instances": 16,
+          "groups": 14
+        },
+        {
+          "id": 12,
+          "instances": 16,
+          "groups": 14
+        },
+        {
+          "id": 13,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 14,
+          "instances": 18,
+          "groups": 16
+        },
+        {
+          "id": 15,
+          "instances": 16,
+          "groups": 11
+        },
+        {
+          "id": 16,
+          "instances": 19,
+          "groups": 16
+        },
+        {
+          "id": 17,
+          "instances": 16,
+          "groups": 8
+        },
+        {
+          "id": 18,
+          "instances": 16,
+          "groups": 8
+        },
+        {
+          "id": 19,
+          "instances": 16,
+          "groups": 8
+        },
+        {
+          "id": 20,
+          "instances": 19,
+          "groups": 16
+        },
+        {
+          "id": 21,
+          "instances": 2,
+          "groups": 6
+        },
+        {
+          "id": 22,
+          "instances": 19,
+          "groups": 16
+        },
+        {
+          "id": 23,
+          "instances": 2,
+          "groups": 1
+        }
+      ]
+    },
+    {
+      "name": "Unforgiven Idolatry",
+      "id": 18,
+      "guid": 11671,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 8,
+          "instances": 2,
+          "groups": 7
+        },
+        {
+          "id": 9,
+          "instances": 2,
+          "groups": 6
+        },
+        {
+          "id": 10,
+          "instances": 2,
+          "groups": 6
+        },
+        {
+          "id": 11,
+          "instances": 2,
+          "groups": 8
+        },
+        {
+          "id": 12,
+          "instances": 2,
+          "groups": 9
+        },
+        {
+          "id": 14,
+          "instances": 2,
+          "groups": 12
+        },
+        {
+          "id": 15,
+          "instances": 2,
+          "groups": 7
+        },
+        {
+          "id": 16,
+          "instances": 2,
+          "groups": 12
+        },
+        {
+          "id": 20,
+          "instances": 2,
+          "groups": 14
+        },
+        {
+          "id": 22,
+          "instances": 2,
+          "groups": 17
+        }
+      ]
+    },
+    {
+      "name": "Unforgiven Idolatry",
+      "id": 19,
+      "guid": 11787,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 8,
+          "instances": 4,
+          "groups": 5
+        },
+        {
+          "id": 9,
+          "instances": 4,
+          "groups": 5
+        },
+        {
+          "id": 10,
+          "instances": 4,
+          "groups": 6
+        },
+        {
+          "id": 11,
+          "instances": 4,
+          "groups": 7
+        },
+        {
+          "id": 12,
+          "instances": 4,
+          "groups": 6
+        },
+        {
+          "id": 14,
+          "instances": 4,
+          "groups": 10
+        },
+        {
+          "id": 15,
+          "instances": 4,
+          "groups": 6
+        },
+        {
+          "id": 16,
+          "instances": 4,
+          "groups": 11
+        },
+        {
+          "id": 20,
+          "instances": 4,
+          "groups": 12
+        },
+        {
+          "id": 22,
+          "instances": 4,
+          "groups": 15
+        }
+      ]
+    },
+    {
+      "name": "Blasphemy",
+      "id": 27,
+      "guid": 11572,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 2,
+          "instances": 2,
+          "groups": 2
+        },
+        {
+          "id": 3,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 4,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 5,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 8,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 9,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 10,
+          "instances": 1,
+          "groups": 3
+        },
+        {
+          "id": 11,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 12,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 14,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 15,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 16,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 17,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 18,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 19,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 20,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 22,
+          "instances": 1,
+          "groups": 2
+        }
+      ]
+    },
+    {
+      "name": "Chiaro",
+      "id": 30,
+      "guid": 11576,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 14,
+          "instances": 2,
+          "groups": 1
+        },
+        {
+          "id": 16,
+          "instances": 6,
+          "groups": 2
+        },
+        {
+          "id": 20,
+          "instances": 4,
+          "groups": 1
+        },
+        {
+          "id": 22,
+          "instances": 8,
+          "groups": 2
+        }
+      ]
+    },
+    {
+      "name": "The Idol Of Darkness",
+      "id": 2,
+      "guid": 11570,
+      "type": "Boss",
+      "fights": [
+        {
+          "id": 1,
+          "instances": 1,
+          "groups": 2
+        },
+        {
+          "id": 2,
+          "instances": 2,
+          "groups": 1
+        },
+        {
+          "id": 3,
+          "instances": 2,
+          "groups": 3
+        },
+        {
+          "id": 4,
+          "instances": 2,
+          "groups": 2
+        },
+        {
+          "id": 5,
+          "instances": 2,
+          "groups": 2
+        },
+        {
+          "id": 6,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 7,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 8,
+          "instances": 2,
+          "groups": 3
+        },
+        {
+          "id": 9,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 10,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 11,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 12,
+          "instances": 2,
+          "groups": 3
+        },
+        {
+          "id": 13,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 14,
+          "instances": 2,
+          "groups": 3
+        },
+        {
+          "id": 15,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 16,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 17,
+          "instances": 2,
+          "groups": 2
+        },
+        {
+          "id": 18,
+          "instances": 2,
+          "groups": 2
+        },
+        {
+          "id": 19,
+          "instances": 2,
+          "groups": 3
+        },
+        {
+          "id": 20,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 21,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 22,
+          "instances": 2,
+          "groups": 4
+        },
+        {
+          "id": 23,
+          "instances": 1,
+          "groups": 1
+        }
+      ]
+    },
+    {
+      "name": "Scuro",
+      "id": 31,
+      "guid": 11577,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 14,
+          "instances": 1,
+          "groups": 1
+        },
+        {
+          "id": 16,
+          "instances": 6,
+          "groups": 2
+        },
+        {
+          "id": 20,
+          "instances": 5,
+          "groups": 1
+        },
+        {
+          "id": 22,
+          "instances": 10,
+          "groups": 2
+        }
+      ]
+    },
+    {
+      "name": "Unforgiven Idolatry",
+      "id": 12,
+      "guid": 11571,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 2,
+          "instances": 8,
+          "groups": 5
+        },
+        {
+          "id": 3,
+          "instances": 8,
+          "groups": 4
+        },
+        {
+          "id": 4,
+          "instances": 8,
+          "groups": 5
+        },
+        {
+          "id": 5,
+          "instances": 8,
+          "groups": 4
+        },
+        {
+          "id": 6,
+          "instances": 8,
+          "groups": 2
+        },
+        {
+          "id": 7,
+          "instances": 8,
+          "groups": 4
+        },
+        {
+          "id": 8,
+          "instances": 8,
+          "groups": 6
+        },
+        {
+          "id": 9,
+          "instances": 8,
+          "groups": 6
+        },
+        {
+          "id": 10,
+          "instances": 8,
+          "groups": 8
+        },
+        {
+          "id": 11,
+          "instances": 8,
+          "groups": 8
+        },
+        {
+          "id": 12,
+          "instances": 8,
+          "groups": 7
+        },
+        {
+          "id": 13,
+          "instances": 8,
+          "groups": 2
+        },
+        {
+          "id": 14,
+          "instances": 8,
+          "groups": 11
+        },
+        {
+          "id": 15,
+          "instances": 8,
+          "groups": 6
+        },
+        {
+          "id": 16,
+          "instances": 8,
+          "groups": 11
+        },
+        {
+          "id": 17,
+          "instances": 8,
+          "groups": 5
+        },
+        {
+          "id": 18,
+          "instances": 8,
+          "groups": 5
+        },
+        {
+          "id": 19,
+          "instances": 8,
+          "groups": 5
+        },
+        {
+          "id": 20,
+          "instances": 8,
+          "groups": 14
+        },
+        {
+          "id": 21,
+          "instances": 8,
+          "groups": 4
+        },
+        {
+          "id": 22,
+          "instances": 8,
+          "groups": 15
+        }
+      ]
+    },
+    {
+      "name": "Unforgiven Idolatry",
+      "id": 17,
+      "guid": 11672,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 8,
+          "instances": 2,
+          "groups": 7
+        },
+        {
+          "id": 9,
+          "instances": 2,
+          "groups": 6
+        },
+        {
+          "id": 10,
+          "instances": 2,
+          "groups": 5
+        },
+        {
+          "id": 11,
+          "instances": 2,
+          "groups": 8
+        },
+        {
+          "id": 12,
+          "instances": 2,
+          "groups": 9
+        },
+        {
+          "id": 14,
+          "instances": 2,
+          "groups": 12
+        },
+        {
+          "id": 15,
+          "instances": 2,
+          "groups": 7
+        },
+        {
+          "id": 16,
+          "instances": 2,
+          "groups": 12
+        },
+        {
+          "id": 20,
+          "instances": 2,
+          "groups": 14
+        },
+        {
+          "id": 22,
+          "instances": 2,
+          "groups": 17
+        }
+      ]
+    },
+    {
+      "name": "Idolatry",
+      "id": 25,
+      "guid": 11574,
+      "type": "NPC",
+      "fights": [
+        {
+          "id": 2,
+          "instances": 2
+        },
+        {
+          "id": 3,
+          "instances": 1
+        },
+        {
+          "id": 4,
+          "instances": 1
+        },
+        {
+          "id": 5,
+          "instances": 1
+        },
+        {
+          "id": 8,
+          "instances": 1
+        },
+        {
+          "id": 9,
+          "instances": 1
+        },
+        {
+          "id": 10,
+          "instances": 1
+        },
+        {
+          "id": 11,
+          "instances": 1
+        },
+        {
+          "id": 12,
+          "instances": 1
+        },
+        {
+          "id": 14,
+          "instances": 1
+        },
+        {
+          "id": 15,
+          "instances": 1
+        },
+        {
+          "id": 16,
+          "instances": 1
+        },
+        {
+          "id": 17,
+          "instances": 1
+        },
+        {
+          "id": 18,
+          "instances": 1
+        },
+        {
+          "id": 19,
+          "instances": 1
+        },
+        {
+          "id": 20,
+          "instances": 1
+        },
+        {
+          "id": 22,
+          "instances": 1
+        }
+      ]
+    }
+  ],
+  "friendlyPets": [
+    {
+      "name": "Titan-Egi",
+      "id": 32,
+      "guid": 1014,
+      "type": "Pet",
+      "petOwner": 4,
+      "fights": [
+        {
+          "id": 23,
+          "instances": 1
+        }
+      ]
+    },
+    {
+      "name": "Ruby Carbuncle",
+      "id": 1,
+      "guid": 1013,
+      "type": "Pet",
+      "petOwner": 4,
+      "fights": [
+        {
+          "id": 1,
+          "instances": 1
+        },
+        {
+          "id": 2,
+          "instances": 7
+        },
+        {
+          "id": 3,
+          "instances": 5
+        },
+        {
+          "id": 4,
+          "instances": 6
+        },
+        {
+          "id": 5,
+          "instances": 6
+        },
+        {
+          "id": 6,
+          "instances": 2
+        },
+        {
+          "id": 7,
+          "instances": 3
+        },
+        {
+          "id": 8,
+          "instances": 8
+        },
+        {
+          "id": 9,
+          "instances": 8
+        },
+        {
+          "id": 10,
+          "instances": 8
+        },
+        {
+          "id": 11,
+          "instances": 9
+        },
+        {
+          "id": 12,
+          "instances": 8
+        },
+        {
+          "id": 13,
+          "instances": 2
+        },
+        {
+          "id": 14,
+          "instances": 9
+        },
+        {
+          "id": 15,
+          "instances": 7
+        },
+        {
+          "id": 16,
+          "instances": 10
+        },
+        {
+          "id": 17,
+          "instances": 5
+        },
+        {
+          "id": 18,
+          "instances": 5
+        },
+        {
+          "id": 19,
+          "instances": 5
+        },
+        {
+          "id": 20,
+          "instances": 10
+        },
+        {
+          "id": 21,
+          "instances": 3
+        },
+        {
+          "id": 22,
+          "instances": 13
+        },
+        {
+          "id": 23,
+          "instances": 1
+        }
+      ]
+    },
+    {
+      "name": "Earthly Star",
+      "id": 24,
+      "guid": 7245,
+      "type": "Pet",
+      "petOwner": 11,
+      "fights": [
+        {
+          "id": 2,
+          "instances": 1
+        },
+        {
+          "id": 3,
+          "instances": 3
+        },
+        {
+          "id": 4,
+          "instances": 2
+        },
+        {
+          "id": 5,
+          "instances": 3
+        },
+        {
+          "id": 6,
+          "instances": 1
+        },
+        {
+          "id": 7,
+          "instances": 1
+        },
+        {
+          "id": 8,
+          "instances": 3
+        },
+        {
+          "id": 9,
+          "instances": 4
+        },
+        {
+          "id": 10,
+          "instances": 3
+        },
+        {
+          "id": 11,
+          "instances": 3
+        },
+        {
+          "id": 12,
+          "instances": 3
+        },
+        {
+          "id": 14,
+          "instances": 6
+        },
+        {
+          "id": 15,
+          "instances": 4
+        },
+        {
+          "id": 16,
+          "instances": 6
+        },
+        {
+          "id": 17,
+          "instances": 2
+        },
+        {
+          "id": 18,
+          "instances": 2
+        },
+        {
+          "id": 19,
+          "instances": 3
+        },
+        {
+          "id": 20,
+          "instances": 5
+        },
+        {
+          "id": 22,
+          "instances": 7
+        }
+      ]
+    },
+    {
+      "name": "Bunshin",
+      "id": 16,
+      "guid": 10897,
+      "type": "Pet",
+      "petOwner": 6,
+      "fights": [
+        {
+          "id": 2,
+          "instances": 3
+        },
+        {
+          "id": 3,
+          "instances": 4
+        },
+        {
+          "id": 4,
+          "instances": 4
+        },
+        {
+          "id": 5,
+          "instances": 2
+        },
+        {
+          "id": 6,
+          "instances": 1
+        },
+        {
+          "id": 7,
+          "instances": 2
+        },
+        {
+          "id": 8,
+          "instances": 4
+        },
+        {
+          "id": 9,
+          "instances": 4
+        },
+        {
+          "id": 10,
+          "instances": 4
+        },
+        {
+          "id": 11,
+          "instances": 5
+        },
+        {
+          "id": 12,
+          "instances": 5
+        },
+        {
+          "id": 13,
+          "instances": 1
+        },
+        {
+          "id": 14,
+          "instances": 5
+        },
+        {
+          "id": 15,
+          "instances": 4
+        },
+        {
+          "id": 16,
+          "instances": 6
+        },
+        {
+          "id": 17,
+          "instances": 3
+        },
+        {
+          "id": 18,
+          "instances": 3
+        },
+        {
+          "id": 19,
+          "instances": 3
+        },
+        {
+          "id": 20,
+          "instances": 6
+        },
+        {
+          "id": 21,
+          "instances": 2
+        },
+        {
+          "id": 22,
+          "instances": 7
+        }
+      ]
+    },
+    {
+      "name": "Automaton Queen",
+      "id": 23,
+      "guid": 10490,
+      "type": "Pet",
+      "petOwner": 10,
+      "fights": [
+        {
+          "id": 2,
+          "instances": 3
+        },
+        {
+          "id": 3,
+          "instances": 3
+        },
+        {
+          "id": 4,
+          "instances": 2
+        },
+        {
+          "id": 5,
+          "instances": 2
+        },
+        {
+          "id": 7,
+          "instances": 1
+        },
+        {
+          "id": 8,
+          "instances": 4
+        },
+        {
+          "id": 9,
+          "instances": 4
+        },
+        {
+          "id": 10,
+          "instances": 4
+        },
+        {
+          "id": 11,
+          "instances": 4
+        },
+        {
+          "id": 12,
+          "instances": 5
+        },
+        {
+          "id": 13,
+          "instances": 1
+        },
+        {
+          "id": 14,
+          "instances": 4
+        },
+        {
+          "id": 15,
+          "instances": 4
+        },
+        {
+          "id": 16,
+          "instances": 6
+        },
+        {
+          "id": 17,
+          "instances": 3
+        },
+        {
+          "id": 18,
+          "instances": 3
+        },
+        {
+          "id": 19,
+          "instances": 3
+        },
+        {
+          "id": 20,
+          "instances": 6
+        },
+        {
+          "id": 21,
+          "instances": 1
+        },
+        {
+          "id": 22,
+          "instances": 8
+        }
+      ]
+    },
+    {
+      "name": "Demi-Phoenix",
+      "id": 22,
+      "guid": 10488,
+      "type": "Pet",
+      "petOwner": 4,
+      "fights": [
+        {
+          "id": 2,
+          "instances": 1
+        },
+        {
+          "id": 3,
+          "instances": 2
+        },
+        {
+          "id": 4,
+          "instances": 2
+        },
+        {
+          "id": 5,
+          "instances": 2
+        },
+        {
+          "id": 7,
+          "instances": 1
+        },
+        {
+          "id": 8,
+          "instances": 3
+        },
+        {
+          "id": 9,
+          "instances": 2
+        },
+        {
+          "id": 10,
+          "instances": 3
+        },
+        {
+          "id": 11,
+          "instances": 4
+        },
+        {
+          "id": 12,
+          "instances": 3
+        },
+        {
+          "id": 13,
+          "instances": 1
+        },
+        {
+          "id": 14,
+          "instances": 4
+        },
+        {
+          "id": 15,
+          "instances": 3
+        },
+        {
+          "id": 16,
+          "instances": 4
+        },
+        {
+          "id": 17,
+          "instances": 2
+        },
+        {
+          "id": 18,
+          "instances": 2
+        },
+        {
+          "id": 19,
+          "instances": 2
+        },
+        {
+          "id": 20,
+          "instances": 4
+        },
+        {
+          "id": 21,
+          "instances": 1
+        },
+        {
+          "id": 22,
+          "instances": 5
+        }
+      ]
+    },
+    {
+      "name": "Demi-Bahamut",
+      "id": 21,
+      "guid": 6982,
+      "type": "Pet",
+      "petOwner": 4,
+      "fights": [
+        {
+          "id": 2,
+          "instances": 3
+        },
+        {
+          "id": 3,
+          "instances": 2
+        },
+        {
+          "id": 4,
+          "instances": 3
+        },
+        {
+          "id": 5,
+          "instances": 3
+        },
+        {
+          "id": 6,
+          "instances": 1
+        },
+        {
+          "id": 7,
+          "instances": 1
+        },
+        {
+          "id": 8,
+          "instances": 3
+        },
+        {
+          "id": 9,
+          "instances": 4
+        },
+        {
+          "id": 10,
+          "instances": 3
+        },
+        {
+          "id": 11,
+          "instances": 4
+        },
+        {
+          "id": 12,
+          "instances": 4
+        },
+        {
+          "id": 13,
+          "instances": 1
+        },
+        {
+          "id": 14,
+          "instances": 5
+        },
+        {
+          "id": 15,
+          "instances": 3
+        },
+        {
+          "id": 16,
+          "instances": 5
+        },
+        {
+          "id": 17,
+          "instances": 3
+        },
+        {
+          "id": 18,
+          "instances": 2
+        },
+        {
+          "id": 19,
+          "instances": 3
+        },
+        {
+          "id": 20,
+          "instances": 5
+        },
+        {
+          "id": 21,
+          "instances": 1
+        },
+        {
+          "id": 22,
+          "instances": 6
+        }
+      ]
+    }
+  ],
+  "enemyPets": [],
+  "phases": [],
+  "logVersion": 39,
+  "gameVersion": 1,
+  "title": "Eden's Verse",
+  "owner": "tony peperony",
+  "start": 1582773664567,
+  "end": 1582786241122,
+  "zone": 33,
+  "exportedCharacters": []
+}
