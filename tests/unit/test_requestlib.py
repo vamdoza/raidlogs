@@ -4,7 +4,7 @@ import unittest.mock
 from raidlogs import requestlib
 
 
-class TestRequest(unittest.TestCase):
+class TestRequestLib(unittest.TestCase):
 
     def test_getWithNoValidURLRaisesValueError(self):
         with self.assertRaises(ValueError):
