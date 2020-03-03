@@ -13,11 +13,6 @@ class TestRequest(unittest.TestCase):
         # assert
         pass
 
-    def test_getFightReport(self):
-        fight_id = ''
-        response = raidmetrics.getFightReport(fight_id)
-        self.assertIsNotNone(response)
-
     def tearDown(self):
         # dispose test data.
         pass
