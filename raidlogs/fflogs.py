@@ -1,3 +1,5 @@
+import json
+
 from raidlogs import requestlib
 
 
@@ -10,7 +12,7 @@ class Api(object):
     def get_reports(self, report_id):
         url = '%s/report/fights/%s' % (self.base_url, report_id)
         resp = requestlib.get(self.__add_auth_key(url))
-        return resp
+        return json.loads(resp, encoding='utf-8')
 
     def __add_auth_key(self, url):
         params = {'api_key': self.key}
