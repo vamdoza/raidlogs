@@ -9,10 +9,10 @@ class Api(object):
 
     def get_reports(self, report_id):
         url = '%s/report/fights/%s' % (self.base_url, report_id)
-        resp = requestlib.get(url)
+        resp = requestlib.get(self.__add_auth_key(url))
         return resp
 
-    def __encode_api_key(self, url):
+    def __add_auth_key(self, url):
         params = {'api_key': self.key}
         return requestlib.encode_url_with_params(url, params)
 
