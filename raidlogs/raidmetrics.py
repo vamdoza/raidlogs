@@ -1,11 +1,13 @@
 from raidlogs import config
 from raidlogs import fflogs
+from raidlogs import reports
 
 
 def get_fight_report(report_id):
     api = fflogs.Api(config.API_KEY)
     report_data = api.get_fight_report(report_id)
-    return report_data
+    report = reports.FightReport(report_data)
+    return report.get_time_report()
 
 
-get_fight_report("WxadmGXqDRNCBvZf")
+print(get_fight_report("WxadmGXqDRNCBvZf"))
