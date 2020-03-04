@@ -15,13 +15,6 @@ class TestReports(unittest.TestCase):
         report = reports.FightReport(response)
         self.assertIsNotNone(report)
 
-    def test_get_time_report_returns_report_with_keys(self):
-        response = self.mocked_response
-        report = reports.FightReport(response).get_time_report()
-        self.assertIn("raid_duration", report)
-        self.assertIn("active_time", report)
-        self.assertIn("inactive_time", report)
-
     def test_get_raid_duration(self):
         resp = self.mocked_response
         report = reports.FightReport(resp)
@@ -36,3 +29,10 @@ class TestReports(unittest.TestCase):
         resp = self.mocked_response
         report = reports.FightReport(resp)
         self.assertAlmostEqual(report.get_inactive_time(), 4746.092)
+
+    def test_get_time_report_returns_report_with_keys(self):
+        response = self.mocked_response
+        report = reports.FightReport(response).get_time_report()
+        self.assertIn("raid_duration", report)
+        self.assertIn("active_time", report)
+        self.assertIn("inactive_time", report)
